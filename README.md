@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Bauke 👋
 
-<!--
-**Baukebrenninkmeijer/Baukebrenninkmeijer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a deep learning practitioner🧠/data scientist📈. I have a background in computer science and data science, and thus both are very prevelant in my work. I have created some bots, some deep learning implementations and some libraries related to synthetic data. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on setting up a personal website and synthetic data using GANs.
+- 🌱 I’m currently learning Full Stack (Deep/machine) Learning 
+- 💬 Ask me about PyTorch and SOTA NLP or Computer Vision models! 🔥🔥
+- 😊 My favorite machine learning sources are [HuggingFace](https://huggingface.co), [Sotabench](https://sotabench.com) and [paperswithcode](https://paperswithcode.com)
+
+<p align="center">
+	<a href="https://github.com/Baukebrenninkmeijer"><img src="https://img.shields.io/github/followers/Baukebrenninkmeijer.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/bauke-brenninkmeijer-40143310b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
