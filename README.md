@@ -1,6 +1,6 @@
 ### Hi there, I'm Bauke 👋
 
-I'm a deep learning practitioner🧠/data scientist📈 at ABN AMRO, a Dutch bank. I have a background in computer science and data science, and thus both are significant in my work. I have created some bots, worked on some deep learning implementations and some libraries related to synthetic data. 
+I'm a deep learning practitioner🧠/data scientist📈 at ABN AMRO, a Dutch bank. I have a background in computer science and data science. I have created some bots, worked on some deep learning implementations and some libraries related to synthetic data. 
 
 
 - 🔭 I'm currently trying to get back into the latest developments in computer vision and NLP, with stable diffusion and PaLM. 
